@@ -13,3 +13,12 @@
 - Hashmap has 2 main parts the `key` and the `value`
 - The `key` is unique and points to where the value is stored
 - The `value` is stored in the hashmap
+
+## Actions
+
+- set key value
+- get key value
+- delete key
+- update values
+- check if key exists
+- check map size
